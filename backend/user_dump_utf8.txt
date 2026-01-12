@@ -1,0 +1,68 @@
+User Record:
+{
+  "userid": 1,
+  "universityemail": "dasun.anupiya@gmail.com",
+  "usertype": "Student",
+  "department": null,
+  "designation": null,
+  "batch": null,
+  "passwordhash": "$2b$10$E4TtY5dg3KMb7cmRNtM56OGU0LFfNHO4PqrfADdV65IU31qaVksvO",
+  "createdtimestamp": "2026-01-12T11:09:08.667",
+  "lastupdatedtimestamp": "2026-01-12T11:09:08.667"
+}
+> Detected Email: dasun.anupiya@gmail.com
+> Detected Type: Student
+> Password Hash Present: true
+> Hash Start: $2b$10$E4T...
+-------------------
+User Record:
+{
+  "userid": 2,
+  "universityemail": "crypsystechnologies@gmail.com",
+  "usertype": "Admin",
+  "department": "IAT",
+  "designation": null,
+  "batch": null,
+  "passwordhash": "$2y$10$ycS6WHw/.dz/p/KfpG1/cOeZa9W5yNC087niLd4drFJV93d8Pr53S",
+  "createdtimestamp": "2026-01-12T11:28:27.995212",
+  "lastupdatedtimestamp": "2026-01-12T11:28:27.995212"
+}
+> Detected Email: crypsystechnologies@gmail.com
+> Detected Type: Admin
+> Password Hash Present: true
+> Hash Start: $2y$10$ycS...
+-------------------
+User Record:
+{
+  "userid": 3,
+  "universityemail": "dasunwnasinghe@gmail.com",
+  "usertype": "Admin",
+  "department": null,
+  "designation": null,
+  "batch": null,
+  "passwordhash": "$2y$10$f5vwPRvFscKw9G3b1gwrLeIzYPgx7KhDzzok23OPKq88vhQqeLD0m",
+  "createdtimestamp": "2026-01-12T11:31:06.683207",
+  "lastupdatedtimestamp": "2026-01-12T11:31:06.683207"
+}
+> Detected Email: dasunwnasinghe@gmail.com
+> Detected Type: Admin
+> Password Hash Present: true
+> Hash Start: $2y$10$f5v...
+-------------------
+User Record:
+{
+  "userid": 4,
+  "universityemail": "dilshan@gmail.com",
+  "usertype": "Admin",
+  "department": null,
+  "designation": null,
+  "batch": null,
+  "passwordhash": "$2y$10$WSiRtObyv/yAjEh8IzjfNeRZUZiLX4Fam4GYOKX9EoOqZf.U20NMy",
+  "createdtimestamp": "2026-01-12T11:37:28.614588",
+  "lastupdatedtimestamp": "2026-01-12T11:37:28.614588"
+}
+> Detected Email: dilshan@gmail.com
+> Detected Type: Admin
+> Password Hash Present: true
+> Hash Start: $2y$10$WSi...
+-------------------
